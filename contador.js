@@ -1,4 +1,8 @@
 window.addEventListener("load", () => {
+  
+const botao = document.getElementById("botao");
+
+  botao.addEventListener("click", () => {
 
 //tempo em segundos.
 let sec = 180;
@@ -19,7 +23,7 @@ const secpass = () => {
   }
 
   //vai gerar o formato 00:02:59
-  countDiv.innerHTML = "00:" + min + ":" + segundosRestantes;
+  countDiv.innerHTML = min + ":" + segundosRestantes;
 
   //condição final
     if(sec > 0){
@@ -32,4 +36,5 @@ const secpass = () => {
 
 const countDown = setInterval(() => secpass(), 1000);
 
+  });
 });
