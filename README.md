@@ -27,7 +27,7 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
   Executando projeto para fazer um contador de tempo em JavaScript.
   
-  <img align="right" width="300" height="300" src="https://github.com/NicolasSuzigan/ContadorDeTempoEmJS/issues/1#issue-941462026">
+  <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/28414038/125198673-4eeb7880-e239-11eb-870f-e71153e95b85.png">
  
 ---
 
